@@ -72,7 +72,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/mayank-garg7/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&no-frame=true&column=8&margin-w=10"/>
   </a>
 </p> 
@@ -134,7 +134,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mayank-garg7&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p  align="center">
@@ -201,7 +201,7 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 </div>
 
 <br>
-<p align="center"">
+<p align="center">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
@@ -213,7 +213,7 @@ Raise an [issue](https://github.com/mayank-garg7/mayank-garg7/issues), and inclu
 <p align="center"> 
   Visitors counts <br>
   <br >
-  <img src="https://profile-counter.glitch.me/mayank-garg78/count.svg" /> 
+  <img src="https://profile-counter.glitch.me/mayank-garg7/count.svg" /> 
 </p>
 
 <p  align="center">
