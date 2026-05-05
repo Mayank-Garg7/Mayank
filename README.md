@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm Mayank Garg! 👋</h1>
+<h1 align="center"><img src='./images/left.webp' />🚀 Hi, I'm Mayank Garg! 👋<img src='./images/right.webp' /></h1>
 <h3 align="center">Software Engineer | Lead Python Trainer | React Specialist</h3>
 
 <p align="center">
