@@ -83,9 +83,7 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <a href="https://github.com/mayank-garg7">
           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dark&hide_border=true" alt="Mayank's GitHub Streak" style="border: none;" />
-        </a>
       </td>
     </tr>
   </table>
