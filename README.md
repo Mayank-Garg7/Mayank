@@ -55,17 +55,9 @@ Short project description here.
 
 ## ⚒️ Tech Stack
 
-### Frontend
-React.js • TailwindCSS • JavaScript • HTML • CSS
-
-### Languages
-Python • JavaScript • C • C++
-
-### Database
-MongoDB • MySQL
-
-### Currently Learning
-FastAPI • Docker • SQLAlchemy • TypeScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,python,fastapi,mongodb,docker,git" />
+</p>
 
 
 ---
