@@ -53,7 +53,7 @@ Short project description here.
 ---
 
 
-## ⚒️ Tech Stacks
+## ⚒️ Tech Stack
 
 ### Frontend
 React.js • TailwindCSS • JavaScript • HTML • CSS
@@ -72,10 +72,10 @@ FastAPI • Docker • SQLAlchemy • TypeScript
 
 
 > "Code, teach, learn, repeat."
-> Passionate about building and mentoring through technology.
 
 
 ---
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -83,42 +83,52 @@ FastAPI • Docker • SQLAlchemy • TypeScript
   </a>
 </p> 
 
-<br />
+
+---
+
 <div align="center">
-
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=dark&hide_border=true" />
-
-<br />
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=dark&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-  <!-- Additional Summary Cards -->
- <table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=dark&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
- <br />
+    <img align="center"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=dark&hide_border=true" />
 
 
-<br />
+---
+
+
+  <table>
+      <tr>
+          <td>
+              <img
+                  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=dark&hide_border=true" />
+          </td>
+          <td>
+              <img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dark&hide_border=true" />
+          </td>
+      </tr>
+  </table>
+
+
+---
+
+
+  <table>
+      <tr>
+          <td>
+              <img
+                  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=dark&hide_border=true" />
+          </td>
+          <td>
+              <img
+                  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=dark&hide_border=true" />
+          </td>
+      </tr>
+  </table>
+</div>
 
 
 ---
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=react-dark&hide_border=true&area=true)
 
+
+---
