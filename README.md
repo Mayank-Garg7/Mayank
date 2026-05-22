@@ -1,5 +1,6 @@
 <h1 align="center">🚀 Hi, I'm Mayank Garg! 👋</h1>
-<h3 align="center">💻 Software Engineer | ⚛️ React specialist & trainer | 🐍 Python Trainer </h3>
+<h3 align="center">💻 Software Engineer | ⚛️ React Developer & Trainer | 🐍 Python Trainer </h3>
+<p align="center">Passionate about building modern web applications and mentoring future developers 🚀</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayank-garg7&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-garg7" />
@@ -7,31 +8,27 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 I am a **Software Engineer** and **Technical Educator** with over 1.7 years of experience in higher education and software development. I specialize in building responsive user interfaces with **React** and mentoring students in **Python**, **Data Structures**, and **Object-Oriented Programming**.
 
 - 🏫 **Experience:** Former Assistant Professor/Technical Trainer at St. Mary's Group.
 - 💡 **Mentorship:** Experienced in mentoring students in Python, Data Structures, OOP, and Front-End Development.
 - 💬 **Ask me about:** React.js, Python, TailwindCSS, SQL, and Front-End Development.
-- 🌱 **Currently Learning:** FastAPI, Docker, SQLAlchemy, TypeScript, and Backend Development..
+- 🌱 **Currently Learning:** FastAPI, Docker, SQLAlchemy, TypeScript, and Backend Development.
 - ⚡ **Fun fact:** I’m a chess enthusiast and a habitual puzzle solver. I believe coding is just another form of strategy.
 
 
 ---
 
-### 🏆 Certifications & Achievements
-- [**HackerRank Certified:** Python, Java, and Problem Solving](https://www.hackerrank.com/profile/mayank__garg7).
+## 🏆 Certifications & Achievements
+- [**HackerRank Certified:** React, Python, Java, and Problem Solving](https://www.hackerrank.com/profile/mayank__garg7).
 - [**HackerRank Stars:** ⭐⭐⭐⭐ in Python | ⭐⭐ in SQL & JavaScript](https://www.hackerrank.com/profile/mayank__garg7).
 - **NASSCOM Certified:** Business Intelligence Analytics.
 
 ---
 
-> "Code, teach, learn, repeat."
-> Passionate about building and mentoring through technology.
 
----
-
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 <p align="center">
   <a href="mailto:mayankgarg082@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mayank-garg7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -41,16 +38,22 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 
 ---
 
+
 ## 🚀 Featured Projects
 
-- 🔹 Project Name — Short description
+### 🔹 Project Name
+Short project description here.
+
+🛠️ React • TailwindCSS • MongoDB
+
+🔗 Live Demo | 📂 Repository
 - 🔹 Project Name — Short description
 - 🔹 Project Name — Short description
 
 ---
 
-### Tech Stacks
-## ⚒️ Tech Stack
+
+## ⚒️ Tech Stacks
 
 ### Frontend
 React.js • TailwindCSS • JavaScript • HTML • CSS
@@ -64,6 +67,14 @@ MongoDB • MySQL
 ### Currently Learning
 FastAPI • Docker • SQLAlchemy • TypeScript
 
+
+---
+
+
+> "Code, teach, learn, repeat."
+> Passionate about building and mentoring through technology.
+
+
 ---
 
 <p align="center">
@@ -74,31 +85,34 @@ FastAPI • Docker • SQLAlchemy • TypeScript
 
 <br />
 <div align="center">
-  <!-- Profile Details Card -->
 
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=dark&hide_border=true" />
 
-  <!-- Additional Summary Cards -->
-  <table style="margin-bottom: 20px; border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none;">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=dark&hide_border=true" alt="Most Commit Language" />
-      </td>
-      <td style="border: none;">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=dark&hide_border=true" alt="Repos per Language" style="border: none;" />
-      </td>
-    </tr>
- </table>
- <br />
-<table style="border-collapse: collapse; border: 2px solid red; border-spacing: 0;">
+<br />
+
+<table>
   <tr>
-    <td style="border: 2px solid blue; padding: 10px;">
-     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=dark&hide_border=true" alt="Stats Card" style="margin-bottom: 20px; border: none;" />
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=dark&hide_border=true" />
     </td>
-    <td style="border: 2px solid green; padding: 10px;">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dark&hide_border=true" alt="Mayank's GitHub Streak" style="border: none;" />
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
+
+  <!-- Additional Summary Cards -->
+ <table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+ <br />
 
 
 <br />
@@ -107,3 +121,4 @@ FastAPI • Docker • SQLAlchemy • TypeScript
 ---
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=react-dark&hide_border=true&area=true)
+
