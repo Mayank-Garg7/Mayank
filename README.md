@@ -41,14 +41,31 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name
-Short project description here.
+### 🔹 dsa_visualizer_lab
+> A full-stack interactive DSA Visualizer built with React (Vite + Tailwind) & FastAPI. It visually demonstrates how sorting algorithms (Bubble, Merge, Quick Sort) work step-by-step with real-time animations, play/pause controls, and speed adjustment. Designed as an educational tool to help students understand Data Structures & Algorithms by visuals.
 
-🛠️ React • TailwindCSS • MongoDB
+- <p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind,fastapi,python,docker,git,github,vercel,render" /> </p>
+- 🛠️ React.Js • TailwindCSS • pydantic • uvicorn • docker • FastApi • Git • Github • FaskApi • vercel • render • sqlite • python 
+- 📌 Key Highlight: Focus on beginner-friendly DSA visualization for students.
+- 🔗 [Live Demo](https://dsa-visualizer-lab.vercel.app/) | 📂 [Repository](https://github.com/Mayank-Garg7/dsa_visualizer_lab)
 
-🔗 Live Demo | 📂 Repository
-- 🔹 Project Name — Short description
-- 🔹 Project Name — Short description
+---
+
+### 🔹 Feedback_management_app
+> A modern, SaaS-style Feedback & Rating Application built using React. This project allows users to add, read, edit, and delete feedback along with ratings, focusing on clean UI, reusable components, and real-world frontend architecture.
+
+- <p align="left"> <img src="https://skillicons.dev/icons?i=react,js,css,git,github" /> </p>
+- 🛠️ React.js • JavaScript • Context API • React Router • JSON Server • Fetch API • Framer Motion • PropTypes • CSS 
+- 🔗 [Live Demo](https://lets-give-feedback.netlify.app/) | 📂 [Repository](https://github.com/Mayank-Garg7/Feedback_management_app)
+
+---
+
+### 🔹 forge_text
+Forge_Text is a React-based text utility app that allows users to transform, analyze, copy, paste, and manage text efficiently with a clean and responsive UI.
+
+- <p align="left"> <img src="https://skillicons.dev/icons?i=react,js,bootstrap,git,github" /> </p>
+- 🛠️ React.js • JavaScript • Bootstrap • Async/Await • Clipboard API • React Hooks (useState) • CSS
+- 🔗 [Live Demo](https://forge-text.netlify.app/) | 📂 [Repository](https://github.com/Mayank-Garg7/forge_text)
 
 ---
 
@@ -63,7 +80,7 @@ Short project description here.
 ---
 
 
-> "Code, teach, learn, repeat."
+> <p align="center">"Code, teach, learn, repeat."</p>
 
 
 ---
