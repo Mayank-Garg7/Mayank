@@ -86,7 +86,7 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=gitdimmed&no-frame=true&column=8&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=onestar&no-frame=true&column=6&margin-w=10"/>
   </a>
 </p> 
 
