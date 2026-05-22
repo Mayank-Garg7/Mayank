@@ -21,7 +21,7 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 ---
 
 ## 🏆 Certifications & Achievements
-- [**HackerRank Certified:** React, Python, Java, and Problem Solving](https://www.hackerrank.com/profile/mayank__garg7).
+- **HackerRank Certified:** [Frontend Developer (React)](https://www.hackerrank.com/certificates/4339c613bf51), [React](https://www.hackerrank.com/certificates/5be7779ab0df), [Python](https://www.hackerrank.com/certificates/db485aeff446), [Java](https://www.hackerrank.com/certificates/eb65d8cdd225), and [Problem Solving](https://www.hackerrank.com/certificates/39deaf9bd09b).
 - [**HackerRank Stars:** ⭐⭐⭐⭐ in Python | ⭐⭐ in SQL & JavaScript](https://www.hackerrank.com/profile/mayank__garg7).
 - **NASSCOM Certified:** Business Intelligence Analytics.
 
