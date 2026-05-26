@@ -147,12 +147,17 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 
 ---
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&layout=compact&theme=blue-green
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-garg7&layout=compact&theme=blue-green)
 
 ---
 
 ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayank-garg7&layout=compact&theme=blue-green)
-https://raw.githubusercontent.com/mayank-garg7/master/chess_images/blank.png 
+
+---
+
+<img src="https://raw.githubusercontent.com/mayank-garg7/master/chess_images/blank.png " />
+
+---
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
