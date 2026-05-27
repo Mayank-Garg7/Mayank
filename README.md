@@ -95,7 +95,7 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 
 <div align="center">
     <img align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=dark&hide_border=true" />
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=github_dark&hide_border=true" />
 
 
 ---
@@ -105,11 +105,11 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
       <tr>
           <td>
               <img
-                  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=dark&hide_border=true" />
+                  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=github_dark&hide_border=true" />
           </td>
           <td>
               <img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dark&hide_border=true" />
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=github_dark&hide_border=true" />
           </td>
       </tr>
   </table>
@@ -122,11 +122,11 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
       <tr>
           <td>
               <img
-                  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=dark&hide_border=true" />
+                  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=github_dark&hide_border=true" />
           </td>
           <td>
               <img
-                  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=dark&hide_border=true" />
+                  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=github_dark&hide_border=true" />
           </td>
       </tr>
   </table>
@@ -142,26 +142,7 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 
 ---
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=xcode&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=github_dark&hide_border=true&area=true)
 
 
 ---
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-garg7&layout=compact&theme=blue-green)
-
----
-
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mayank-garg7&layout=compact&theme=blue-green)
-
----
-
-<img src="https://raw.githubusercontent.com/mayank-garg7/master/chess_images/blank.png " />
-
----
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=radical)
