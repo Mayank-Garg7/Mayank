@@ -136,12 +136,6 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 ---
 
 
-<img width="676" height="745" alt="image" src="https://github.com/user-attachments/assets/0a131fd0-3ea9-4bb4-b4a1-1f6fc172ae69" />
-
-
-
----
-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=react-dark&hide_border=true&area=true)
 
 
