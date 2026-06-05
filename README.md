@@ -71,7 +71,7 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,python,fastapi,mongodb,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,python,fastapi,postgres,mongodb,mysql,docker,jenkins,git" />
 </p>
 
 
