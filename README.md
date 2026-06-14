@@ -114,7 +114,6 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
       </tr>
   </table>
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=JEETAHIRWAR&theme=github_dark&hide_border=true" /> -->
 
 ---
 
@@ -139,5 +138,6 @@ I am a **Software Engineer** and **Technical Educator** with over 1.7 years of e
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=mayank-garg7&theme=react-dark&hide_border=true&area=true)
 
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=MAYANK-GARG7&theme=react-dark&hide_border=true&area=true) -->
 
 ---
