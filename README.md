@@ -10,6 +10,39 @@
 
 ## 👨‍💻 About Me
 I am a **Software Engineer** and **Technical Educator** with over 1.7 years of experience in higher education and software development. I specialize in building responsive user interfaces with **React** and mentoring students in **Python**, **Data Structures**, and **Object-Oriented Programming**.
+# RBI Young Professional Recruitment 2026
+
+## 🏢 What Will Be Your Work?
+You will be stationed at the **RBI Central Office in Mumbai**, working within the technical policy and oversight wings. Your core responsibilities will include:
+
+* **Risk Assessment**: Analyzing cyber incidents, threat intelligence trends, and global technology risks facing the Indian financial sector.
+* **Policy Research**: Conducting analytical studies to draft framework documents and discussion papers on digital resilience, cloud security, and data governance.
+* **Project Support**: Supporting tech-driven central banking infrastructure projects involving Digital Public Infrastructure (DPI) and secure API architectures.
+
+---
+
+## 💻 What Should You Learn to Get Selected?
+Since your background is strong in core software development, you should bridge your knowledge into basic IT risk frameworks to ace the selection interview:
+
+* **Application Security**: Learn how REST APIs (like your FastAPI projects) are secured against common vulnerabilities (OWASP Top 10, data leaks).
+* **Container Security & Infrastructure**: Understand how deployment environments like Docker are secured via network isolation and access controls.
+* **Basic Fintech Standards**: Read up on basic digital banking security guidelines, cloud compliance, and how financial data encryption works.
+
+---
+
+## 💰 Salary & Compensation
+* **Fixed Remuneration**: ₹1,50,000 per month (subject to standard tax deductions).
+* **Nature of Pay**: This is a fixed contractual stipend. No additional corporate perks, housing allowances, or regular employee bonuses are applicable.
+* **Tenure**: Regular contract for 3 years, extendable up to 5 years based on performance.
+
+---
+
+## ⏳ Last Date to Apply
+* **Deadline**: July 6, 2026.
+* **Submission Mode**: You must combine your application form, resume, and statement of interest into a single PDF (under 5 MB) and email it to `yphrmdco@rbi.org.in`.
+
+
+
 
 - 🏫 **Experience:** Former Assistant Professor/Technical Trainer at St. Mary's Group.
 - 💡 **Mentorship:** Experienced in mentoring students in Python, Data Structures, OOP, and Front-End Development.
