@@ -10,7 +10,6 @@
 
 ## 👨‍💻 About Me
 I am a **Software Engineer** and **Technical Educator** with over 1.7 years of experience in higher education and software development. I specialize in building responsive user interfaces with **React** and mentoring students in **Python**, **Data Structures**, and **Object-Oriented Programming**.
-# RBI Young Professional Recruitment 2026
 
 - 🏫 **Experience:** Former Assistant Professor/Technical Trainer at St. Mary's Group.
 - 💡 **Mentorship:** Experienced in mentoring students in Python, Data Structures, OOP, and Front-End Development.
